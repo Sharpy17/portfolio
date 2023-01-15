@@ -1,0 +1,32 @@
+body {
+    font-family:'Lucida Grande';
+}
+
+.main {
+    font-size: 80px;
+    text-align: center;
+    color: rgb(6, 6, 109);
+    font-weight: bold;
+}
+
+.links {
+    font-size: 50px;
+    font-weight: 800;   
+}
+
+#index {
+    background-image: url(./images/wallpaper); background-size: cover;
+}
+
+p {
+    font-size: 30px;
+}
+
+ul,
+ol {
+    font-size: 25px;
+}
+
+img {
+    align-self: center;
+}
