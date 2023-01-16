@@ -5,28 +5,71 @@ body {
 .main {
     font-size: 80px;
     text-align: center;
-    color: rgb(6, 6, 109);
+    color: rgb(202, 116, 116);
+    font-weight: bold;
+}
+
+.Heading {
+    font-size: 100px;
+    text-align: center;
+    color:rgba(4, 12, 11, 0.842);
     font-weight: bold;
 }
 
 .links {
-    font-size: 50px;
+    font-size: 65px;
     font-weight: 800;   
 }
 
 #index {
-    background-image: url(./images/wallpaper); background-size: cover;
+    background-image: url(./images/cat-han-W_5Eakb1598-unsplash.jpg); background-size: cover;
 }
 
+#lasagna {
+    background-image: url(./images/sirisvisual-Qh6yUFl7P5E-unsplash.jpg); background-size: cover;
+}
+
+#garlic {
+    background-image: url(./images/henry-co-tqu0IOMaiU8-unsplash.jpg); background-size: cover;
+}
+
+#lentil {
+    background-image: url(./images/anchor-lee-kO1G3neRA2o-unsplash.jpg); background-size: cover;
+}
+
+.im {
+    width:900px;
+}
+
+#lenim {
+    width: 900px;
+    height:600px;
+}
 p {
     font-size: 30px;
+    color:rgba(4, 12, 11, 0.842)
 }
 
 ul,
 ol {
     font-size: 25px;
+    color:rgba(4, 12, 11, 0.842)
+}
+
+.parent .son {
+    font-size: 26px;    
 }
 
 img {
-    align-self: center;
+    display: block;
+    margin: 0 auto
+}
+
+h2 {
+    font-size: 40px;
+    color:rgba(4, 12, 11, 0.842)
+}
+
+.chain.chainn {
+    font-weight: 550;
 }
