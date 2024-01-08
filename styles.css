@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lemon:regular);
 
 :root {
-    zoom: 140%;
+    zoom: 150%;
 }
 
 body {
@@ -13,6 +13,11 @@ body {
     flex-direction: column;
     font-family: 'Lemon';
     background-color: rgb(243, 175, 237);
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 24px;
 }
 
 img {
@@ -22,7 +27,8 @@ img {
 }
 
 .special {
-    margin-left: 25px;
+    height: 225px;
+    margin-left: 55px;
 }
 
 .cat {
