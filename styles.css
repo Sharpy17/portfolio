@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lemon:regular);
 
 :root {
-    zoom: 150%;
+    zoom: 140%;
 }
 
 body {
@@ -23,6 +23,10 @@ img {
 
 .special {
     margin-left: 25px;
+}
+
+.cat {
+    height: 220px;
 }
 
 ul {
