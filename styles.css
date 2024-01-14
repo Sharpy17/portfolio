@@ -1,10 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lemon:regular);
-@import url(https://fonts.googleapis.com/css?family=Kanit:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 @import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,regular,500,600,700,100italic,200italic,300italic,italic,500italic,600italic,700italic);
 
 :root {
-    zoom: 225%;
+    zoom: 175%;
 }
 
 body {
@@ -20,22 +17,65 @@ body {
 }
 
 h1 {
+    margin-bottom: 100px;
     font-size: 24px;
+}
+
+div {
+    color: rgb(7, 129, 119);
+    font-size: 8px;
+    font-weight: bold;
 }
 
 img {
     max-width: 100%;
     max-height: 100%;
+}
+
+div,
+img {
     margin-left: -20px;
 }
 
-.special {
-    height: 225px;
-    margin-left: 55px;
+.cat,
+.a,
+.d {
+    height: 220px;
 }
 
-.cat {
-    height: 220px;
+.b {
+    height: 200px;
+}
+
+.c {
+    height: 230px;
+}
+
+.e,
+.f {
+    height: 225px;
+}
+
+.f {
+    margin-left: 170px;
+}
+
+.g {
+    margin-left: 61px;
+    height: 243px;
+}
+
+.h,
+.j {
+    height: 243px;
+}
+
+.j {
+    margin-left: 60px;
+}
+
+.jdiv {
+    width: 350px;
 }
 
 ul {
@@ -44,13 +84,12 @@ ul {
     justify-content: center;
     align-items: center;
     list-style-type: none;
+    gap: 200px;
 }
 
 li {
     height: 300px;
     width: 400px;
 }
-
-
 
 
