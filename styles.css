@@ -96,11 +96,11 @@ li {
 @media (min-width: 320px) and (max-width: 999px) {
 
     :root {
-        zoom: 150%;
+        zoom: 100%;
     }
 
     body {
-        margin-left: 0px;
+        margin-left: 130px;
         overflow-x: visible;
     }
 }
