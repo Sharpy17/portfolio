@@ -94,7 +94,12 @@ li {
 
 
 @media (min-width: 320px) and (max-width: 999px) {
+
+    :root {
+        zoom: 150%;
+    }
+
     body {
-        margin-left: 70px;
+        margin-left: 130px;
     }
 }
