@@ -101,5 +101,6 @@ li {
 
     body {
         margin-left: 130px;
+        overflow-x: visible;
     }
 }
